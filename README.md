@@ -1,0 +1,1 @@
+This app asks a user to click an image in order to start the rotation of the image. Once the image is clicked, the user is asked to click the imageagaon when it reaches a specific rotation. After the user clicks to stop the rotation, they are shown whether or not they stopped the rotation at the correct location.
